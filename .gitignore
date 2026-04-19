@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Intermediate pickles (regenerated on demand)
+*.pkl
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
